@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bombillo</string>
+    <string name="button_on">Encendido</string>
+    <string name="button_off">Apagado</string>
+    <string name="light_on">Luz encendida</string>
+    <string name="light_off">Luz apagada</string>
+</resources>
